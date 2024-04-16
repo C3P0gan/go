@@ -1,3 +1,5 @@
+Link do projeto front-end (React)
+
 ```shell
-go get github.com/gorilla/mux
+https://github.com/guilhermeonrails/frontend-react-personalidades/archive/refs/heads/master.zip
 ```
